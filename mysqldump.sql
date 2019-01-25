@@ -21,6 +21,7 @@ USE `office`;
 -- Table structure for table `employee_detail`
 --
 
+
 DROP TABLE IF EXISTS `employee_detail`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
